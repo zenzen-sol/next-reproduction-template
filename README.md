@@ -6,7 +6,9 @@ Hypothesis: The issue is a conflict between `next-intl` and `next/font`. The `ne
 
 Conclusion: The issue is not a conflict between `next-intl` and `next/font`. The issue in the original app is that the `next/intl` headers are being lost after middleware executes. 
 
-In this repro, we DON'T see the issue. The repro is working as expected. The `next/intl` headers are being sent in the response headers. 
+In this repro, we DO see the issue because we ran:
+
+`p i next@rc react@rc react-dom@rc`
 
 ## Getting Started
 
