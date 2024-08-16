@@ -8,10 +8,10 @@ const config: Config = {
 	],
 	theme: {
 		extend: {
-			fontFamily: {
-				sans: ["var(--font-montserrat)", "sans-serif"],
-				display: ["var(--font-freight-big-pro)", "serif"],
-			},
+			// fontFamily: {
+			// 	sans: ["var(--font-montserrat)", "sans-serif"],
+			// 	display: ["var(--font-freight-big-pro)", "serif"],
+			// },
 		},
 	},
 	plugins: [],
