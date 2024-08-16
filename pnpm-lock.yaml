@@ -15,7 +15,7 @@ importers:
         specifier: 15.0.0-rc.0
         version: 15.0.0-rc.0(react-dom@19.0.0-rc-19bd26be-20240815(react@19.0.0-rc-19bd26be-20240815))(react@19.0.0-rc-19bd26be-20240815)
       next-intl:
-        specifier: 3.17.3
+        specifier: ^3.17.3
         version: 3.17.3(next@15.0.0-rc.0(react-dom@19.0.0-rc-19bd26be-20240815(react@19.0.0-rc-19bd26be-20240815))(react@19.0.0-rc-19bd26be-20240815))(react@19.0.0-rc-19bd26be-20240815)
       react:
         specifier: 19.0.0-rc-19bd26be-20240815
