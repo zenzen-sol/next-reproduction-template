@@ -10,10 +10,10 @@
 	},
 	"dependencies": {
 		"clsx": "^2.1.1",
-		"next": "15.0.0-rc.0",
+		"next": "15.0.0-canary.125",
 		"next-intl": "^3.17.3",
-		"react": "19.0.0-rc-19bd26be-20240815",
-		"react-dom": "19.0.0-rc-19bd26be-20240815"
+		"react": "19.0.0-rc-1d989965-20240821",
+		"react-dom": "19.0.0-rc-1d989965-20240821"
 	},
 	"devDependencies": {
 		"@types/node": "^20",
