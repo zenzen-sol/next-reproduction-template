@@ -7,8 +7,6 @@ import {
 	getTranslations,
 	unstable_setRequestLocale,
 } from "next-intl/server";
-import { Montserrat } from "next/font/google";
-import localFont from "next/font/local";
 import type { ReactNode } from "react";
 import { freightBigPro, montserrat } from "./font";
 
